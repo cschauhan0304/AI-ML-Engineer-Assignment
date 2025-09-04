@@ -44,7 +44,7 @@ The goal is to walk through a complete **data science pipeline**:
 - I have chosen wikipedia data because in wikipedia, data is consistently structured in yearly "Highest-grossing films" tables, making scraping easier
 - it is mentioned to take data of at least 1000 rows so this is one of the largest available structured data in wikipedia
 - It contains **both budget and box office values**, which are essential for regression based prediction.
-- I could have taken data from sites like Amazon, but such sites block scraping, and advanced techniques are required to extract data from them
+- I could have taken data from sites like Amazon, but such sites block scraping, and advanced techniques are required to extract data from them which require some extra time
 - if web scrapping is not mentioned in the document i would have easily took data from the kaggle without scraping
 - so at last i was left with the option of wikipedia data only 
 
