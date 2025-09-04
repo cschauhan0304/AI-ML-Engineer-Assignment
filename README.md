@@ -157,7 +157,7 @@ Clone the repo and install dependencies:
 
 ```bash
 git clone https://github.com/cschauhan0304/AI-ML-Engineer-Assignment.git
-cd movie-boxoffice-prediction
+cd AI-ML-Engineer-Assignment
 pip install -r requirements.txt
 
 ```
