@@ -46,7 +46,7 @@ The goal is to walk through a complete **data science pipeline**:
 - It contains **both budget and box office values**, which are essential for regression based prediction.
 - I could have taken data from sites like Amazon, but such sites block scraping, and advanced techniques are required to extract data from them
 - if web scrapping is not mentioned in the document i would have easily took data from the kaggle without scraping
-- so at last i was left with the option of wikipedia data only
+- so at last i was left with the option of wikipedia data only 
 
 ---
 
